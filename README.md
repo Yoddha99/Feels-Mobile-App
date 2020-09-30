@@ -14,3 +14,10 @@ How to run?
     * for python 3.8:<br /> pip install kivy[base] kivy_examples --pre --extra-index-url<br />
 <br />
 Run the main.py file and voila!
+
+## Screenshots
+
+![Screenshot1 - images/Screenshot1.jpg](images/Screenshot1.jpg)
+![Screenshot2 - images/Screenshot2.jpg](images/Screenshot2.jpg)
+![Screenshot3 - images/Screenshot3.jpg](images/Screenshot3.jpg)
+![Screenshot4 - images/Screenshot4.jpg](images/Screenshot4.jpg)
