@@ -11,6 +11,6 @@ How to run?
     * for python 3.7 or earlier:<br /> pip install kivy<br />
                                      pip install kivy.deps.glew<br />
                                      pip install docutils pygments pypiwin32 kivy.deps.sdl2<br />
-    * for python 3.8: pip install kivy[base] kivy_examples --pre --extra-index-url<br />
+    * for python 3.8:<br /> pip install kivy[base] kivy_examples --pre --extra-index-url<br />
 <br />
 Run the main.py file and voila!
